@@ -2,10 +2,22 @@
   "name": "aula_01",
   "version": "1.0.0",
   "description": "Atividade da Semana 02 da disciplina DSWA5",
-  "author": "",
+  "author": "Thiago Ribeiro",
   "license": "ISC",
   "dependencies": {
     "ejs": "^0.8.8",
     "express": "4.8"
-  }
+  },
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/rib-thiago/DSWA5.git"
+  },
+  "bugs": {
+    "url": "https://github.com/rib-thiago/DSWA5/issues"
+  },
+  "homepage": "https://github.com/rib-thiago/DSWA5#readme"
 }
