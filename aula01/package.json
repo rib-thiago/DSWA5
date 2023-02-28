@@ -6,11 +6,13 @@
   "license": "ISC",
   "dependencies": {
     "ejs": "^0.8.8",
-    "express": "4.8"
+    "express": "4.8",
+    "nodemon": "^2.0.20"
   },
   "main": "server.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "nodemon": "nodemon"
   },
   "repository": {
     "type": "git",
