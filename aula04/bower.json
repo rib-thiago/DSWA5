@@ -1,9 +1,26 @@
 {
-    "name": "aula04",
-    "description": "Atividade da Semana 04 da disciplina DSWA5",
-    "main": "server.js",
-    "authors": ["Thiago Ribeiro"],
-    "license": "ISC",
-    "homepage": "https://github.com/rib-thiago/DSWA5",
-    "ignore": ["**/.*", "node_modules", "bower_components", "test", "tests"]
+  "name": "aula04",
+  "description": "Atividade da Semana 04 da disciplina DSWA5",
+  "main": "server.js",
+  "authors": ["Thiago Ribeiro"],
+  "license": "ISC",
+  "homepage": "https://github.com/rib-thiago/DSWA5",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests",
+    "public/vendor"
+  ],
+  "dependencies": {
+    "angular": "1.8.3",
+    "angular-route": "^1.8.3",
+    "bootstrap": "^5.2.3"
+  },
+  "private": true,
+  "resolutions": {
+    "angular": "1.8.3",
+    "angular-route": "^1.8.3"
+  }
 }

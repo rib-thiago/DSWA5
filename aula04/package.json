@@ -1,32 +1,32 @@
 {
-    "name": "aula_01",
-    "version": "1.0.0",
-    "description": "Atividade da Semana 02 da disciplina DSWA5",
-    "author": "Thiago Ribeiro",
-    "license": "ISC",
-    "dependencies": {
-        "body-parser": "^1.20.2",
-        "ejs": "^0.8.8",
-        "express": "4.8",
-        "express-load": "1.1",
-        "method-override": "2.1",
-        "nodemon": "^2.0.20"
-    },
-    "main": "server.js",
-    "scripts": {
-        "test": "echo \"Error: no test specified\" && exit 1",
-        "nodemon": "nodemon",
-        "bower": "bower"
-    },
-    "repository": {
-        "type": "git",
-        "url": "git+https://github.com/rib-thiago/DSWA5.git"
-    },
-    "bugs": {
-        "url": "https://github.com/rib-thiago/DSWA5/issues"
-    },
-    "homepage": "https://github.com/rib-thiago/DSWA5#readme",
-    "devDependencies": {
-        "bower": "^1.8.14"
-    }
+  "name": "aula_01",
+  "version": "1.0.0",
+  "description": "Atividade da Semana 02 da disciplina DSWA5",
+  "author": "Thiago Ribeiro",
+  "license": "ISC",
+  "dependencies": {
+    "body-parser": "^1.20.2",
+    "ejs": "^0.8.8",
+    "express": "4.8",
+    "express-load": "1.1",
+    "method-override": "2.1",
+    "nodemon": "^2.0.20"
+  },
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "nodemon": "nodemon",
+    "bower": "bower"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/rib-thiago/DSWA5.git"
+  },
+  "bugs": {
+    "url": "https://github.com/rib-thiago/DSWA5/issues"
+  },
+  "homepage": "https://github.com/rib-thiago/DSWA5#readme",
+  "devDependencies": {
+    "bower": "^1.8.14"
+  }
 }

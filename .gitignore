@@ -11,5 +11,4 @@ node_modules/
 !.vscode/*.code-snippets
 .vscode/snippets.json
 
-
-aula04/public/vendor/*
+aula04/public/vendor/
