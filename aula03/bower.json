@@ -1,0 +1,17 @@
+{
+  "name": "aula_01",
+  "description": "Atividade da Semana 02 da disciplina DSWA5",
+  "main": "server.js",
+  "authors": [
+    "Thiago Ribeiro"
+  ],
+  "license": "ISC",
+  "homepage": "https://github.com/rib-thiago/DSWA5",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}
