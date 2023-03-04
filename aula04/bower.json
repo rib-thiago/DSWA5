@@ -5,14 +5,7 @@
   "authors": ["Thiago Ribeiro"],
   "license": "ISC",
   "homepage": "https://github.com/rib-thiago/DSWA5",
-  "ignore": [
-    "**/.*",
-    "node_modules",
-    "bower_components",
-    "test",
-    "tests",
-    "public/vendor"
-  ],
+  "ignore": ["**/.*", "node_modules", "bower_components", "test", "tests"],
   "dependencies": {
     "angular": "1.8.3",
     "angular-route": "^1.8.3",
