@@ -10,3 +10,6 @@ node_modules/
 !.vscode/extensions.json
 !.vscode/*.code-snippets
 .vscode/snippets.json
+
+
+aula04/public/vendor/*
